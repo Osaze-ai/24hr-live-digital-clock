@@ -1,7 +1,7 @@
 <img width="1280" alt="Screenshot" src="https://github.com/Osaze-ai/24hr-live-digital-clock/assets/130580788/c6383672-3c6d-4ad3-a3b2-c93b670457fc">
 
 <div align="center">
-  <h3>
+  <h4>
     <a href="https://osaze-ai.github.io/24hr-live-digital-clock/" color="white">
       Live Preview 
     </a>
