@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family:'Rajdhani', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  justify-content: center;
+  background: url(./Image/baloon\ background.jpg);
+  background-size: cover;
+  overflow: hidden;
+}
+
+.clock {
+  display: flex;
+}
+
+.clock div {
+  margin: 3.5px;
+  position: relative;
+  -webkit-box-reflect: below 0 linear-gradient(transparent, rgb(0, 0, 0));
+}
+
+.clock span {
+  width: 100px;
+  height: 80px;
+  background: rgb(255, 79, 99);
+  opacity: 0.8;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  text-shadow: 2px 2px 4px rgba(100, 71, 71, 0.693);
+}
+
+.clock .text {
+  height: 30px;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background: rgb(255, 145, 158);
+  opacity: 0.8;
+}
+
