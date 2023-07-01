@@ -35,5 +35,5 @@ Preview of JS code for 24hr clock
 I learnt how to use the -webkit-box-reflect css code to relect the time below with a linear-gradient. 
 
 ## CHECK IT OUT :film_strip:
-<p> <a href="https://osaze-ai.github.io/24hr-live-digital-clock/" color="white"> Preview </a> </div>
+<h4> <a href="https://osaze-ai.github.io/24hr-live-digital-clock/" color="white"> Preview </a> </div>
 
