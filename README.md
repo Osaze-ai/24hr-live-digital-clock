@@ -23,17 +23,12 @@ Displayed on this webpage is the current time of day with a hot air baloon backg
 
 I learnt how to use the JavaScript function updateTime (K) to display the elements of time in two-digit format, with 0 appended before when less than 10 using the updateTime() method. 
 
-![JS code-snapshot](https://github.com/Osaze-ai/24hr-live-digital-clock/assets/130580788/e0c4fd29-3da1-4c9d-beab-1c363a0000ca)
+![JS code-snapshot](https://github.com/Osaze-ai/24hr-live-digital-clock/assets/130580788/feec9cd5-a902-4b43-bc15-9006788e8f98)
 
 Preview of JS code for 24hr clock
 
-
 ## Code I Am Proud Of :smiley:
-
-![JS code-snapshot](https://github.com/Osaze-ai/24hr-live-digital-clock/assets/130580788/feec9cd5-a902-4b43-bc15-9006788e8f98)
-
 ![code-snapshot](https://github.com/Osaze-ai/24hr-live-digital-clock/assets/130580788/bafcd8ca-8f0c-498d-8203-29bfafb37f4e)
-
 
 I learnt how to use the -webkit-box-reflect css code to relect the time below with a linear-gradient. 
 
