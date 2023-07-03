@@ -30,7 +30,10 @@ Preview of JS code for 24hr clock
 
 ## Code I Am Proud Of :smiley:
 
-![code-snapshot](https://github.com/Osaze-ai/24hr-live-digital-clock/assets/130580788/250ef985-21a3-417c-8a05-bdd9c424d86e)
+![JS code-snapshot](https://github.com/Osaze-ai/24hr-live-digital-clock/assets/130580788/feec9cd5-a902-4b43-bc15-9006788e8f98)
+
+![code-snapshot](https://github.com/Osaze-ai/24hr-live-digital-clock/assets/130580788/bafcd8ca-8f0c-498d-8203-29bfafb37f4e)
+
 
 I learnt how to use the -webkit-box-reflect css code to relect the time below with a linear-gradient. 
 
